@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapDemo4</string>
+    <string name="google_maps_key">AIzaSyBYlgY_cVSCIDD-5MtRgkB94gGBltuupz4</string>
+
+    <string name="facebook_app_id">693856504291156</string>
+    <string name="fb_login_protocol_scheme">fb693856504291156</string>
+</resources>
